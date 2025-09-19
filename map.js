@@ -22,6 +22,10 @@ const STATES = {
     paved: {
         name: "Paved (5, 6 or 7 wide)",
         color: [9, 85, 40]
+    },
+    pavedwide: {
+        name: "Paved (9 wide)",
+        color: [128, 0, 128]
     }
 }
 
