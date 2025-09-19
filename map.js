@@ -759,7 +759,7 @@ class Map {
             this.render();
         }
 
-        spawn.src = "nether_spawn.png";
+        spawn.src = "website/nether_spawn.png";
 
         this.marker = null;
         this.selectedBlockage = null;
@@ -921,4 +921,5 @@ window.addEventListener('load', async () => {
 
         map.render();
     }
+
 });
