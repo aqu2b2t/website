@@ -15,36 +15,36 @@
         "name": "-X Highway",
         "state": "paved",
         "from": [0, 0],
-        "to": [-1000000, 0]
+        "to": [-3750000, 0]
     },
     {
         "name": "-X Highway",
         "state": "dug_wide",
-        "from": [-1000000, 0],
+        "from": [-3750000, 0],
         "to": [-30000000, 0]
     },
     {
         "name": "+Z Highway",
         "state": "paved",
         "from": [0, 0],
-        "to": [0, 1000000]
+        "to": [0, 3750000]
     },
     {
         "name": "+Z Highway",
         "state": "dug_wide",
-        "from": [0, 1000000],
+        "from": [0, 3750000],
         "to": [0, 30000000]
     },
     {
         "name": "-Z Highway",
         "state": "paved",
         "from": [0, 0],
-        "to": [0, -1000000]
+        "to": [0, -3750000]
     },
     {
         "name": "-Z Highway",
         "state": "dug_wide",
-        "from": [0, -1000000],
+        "from": [0, -3750000],
         "to": [0, -30000000]
     },
 
@@ -155,6 +155,46 @@
         "name": "5k Ring Road Leg 8",
         "from": [-5000, 5000],
         "to": [0, 5000]
+    },
+    {
+        "name": "6.25k Ring Road Leg 1",
+        "from": [0, 6250],
+        "to": [6250, 6250]
+    },
+    {
+        "name": "6.25k Ring Road Leg 2",
+        "from": [6250, 6250],
+        "to": [6250, 0]
+    },
+    {
+        "name": "6.25k Ring Road Leg 3",
+        "from": [6250, 0],
+        "to": [6250, -6250]
+    },
+    {
+        "name": "6.25k Ring Road Leg 4",
+        "from": [6250, -6250],
+        "to": [0, -6250]
+    },
+    {
+        "name": "6.25k Ring Road Leg 5",
+        "from": [0, -6250],
+        "to": [-6250, -6250]
+    },
+    {
+        "name": "6.25k Ring Road Leg 6",
+        "from": [-6250, -6250],
+        "to": [-6250, 0]
+    },
+    {
+        "name": "6.25k Ring Road Leg 7",
+        "from": [-6250, 0],
+        "to": [-6250, 6250]
+    },
+    {
+        "name": "6.25k Ring Road Leg 8",
+        "from": [-6250, 6250],
+        "to": [0, 6250]
     },
     {
         "name": "10k Ring Road Leg 1",
